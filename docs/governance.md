@@ -4,10 +4,4 @@
 
 The governance process for California State Government code release includes the following components:
 
-* [Inventory](inventory.md)
-
-* [Onboarding](onboarding.md)
-
 * [Workflow](workflow.md)
-
-* [Licensing](licensing.md)
