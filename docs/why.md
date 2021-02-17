@@ -46,7 +46,7 @@ As the U.S. Government is doing, California will serve as an example and leader 
 
 ## Open community
 
-Community is critical to all successful open source initiatives, and Code California is dedicated to cultivating an authentic, supportive, open, collaborative network of digital government innovators.
+Community is critical to all successful open source initiatives, and Code CA Open Source is dedicated to cultivating an authentic, supportive, open, collaborative network of digital government innovators.
 
 As the Defense Department says on [code.mil](https://code.mil/why-open-source.html):
 
@@ -56,7 +56,7 @@ The State of California will reap the benefits of open source through a proactiv
 
 ## Coding California’s future
 
-Through the open source community fostered by Code California, the government service providers of California have a vision and guidance  that serves its people openly, into the future.
+Through the open source community fostered by Code CA Open Source, the government service providers of California have a vision and guidance  that serves its people openly, into the future.
 
 ## Resources
 

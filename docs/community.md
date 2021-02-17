@@ -1,10 +1,10 @@
 # Community
 
-To facilitate a culture of exponential public sector digital innovation, Code California welcomes contributions from all members of the government technology ecosystem.
+To facilitate a culture of exponential public sector digital innovation, Code CA Open Source welcomes contributions from all members of the government technology ecosystem.
 
 ## Network
 
-Code California hosts an online and in person network for its community:
+Code CA Open Source hosts an online and in person network for its community:
 
 * Slack ([codeCAgov](https://codecagov.slack.com/) / [join](https://join.slack.com/t/codecagov/shared_invite/enQtNDU3MDY2NDUyMTk3LTkxMzEwYzU3MzdkNTE3ZGE0OGY4MjU5YzUzMTE5ODgwZjc3ZDE3MjlhMjQ3NTJkN2Y2NzFmZDk0NzZmNzgwYmU))
 
@@ -12,7 +12,7 @@ Code California hosts an online and in person network for its community:
 
 ## Users
 
-The Code California community works to serve these core user groups:
+The Code CA Open Source community works to serve these core user groups:
 
 * The People of California, so that they receive the most efficient, effective digital government services possible.
 
@@ -20,7 +20,7 @@ The Code California community works to serve these core user groups:
 
 ## Members
 
-Code California community members include:
+Code CA Open Source community members include:
 
 * California state government agencies/employees
 
@@ -34,7 +34,7 @@ Code California community members include:
 
 ## Collaborators
 
-Code California is led collaboratively and actively supported by these California state agencies and initiatives:
+Code CA Open Source is led collaboratively and actively supported by these California state agencies and initiatives:
 
 * [California Government Operations Agency](https://www.govops.ca.gov/)
 
@@ -48,15 +48,15 @@ Code California is led collaboratively and actively supported by these Californi
 
 ## Working group
 
-The Code California Working Group is comprised of Code Coordinators from each California state agency. The Code California Working Group is led by the California Department of Technology Code Coordinator.
+The Code CA Open Source Working Group is comprised of Code Coordinators from each California state agency. The Code CA Open Source Working Group is led by the California Department of Technology Code Coordinator.
 
 Working group members perform the following functions:
 
 * Champion open source adoption to California state/local governments
 
-* Serve as Code California community leaders/moderators
+* Serve as Code CA Open Source community leaders/moderators
 
-* Organize and facilitate Code California open space sessions
+* Organize and facilitate Code CA Open Source open space sessions
 
 * Work to increase project contribution and participation in code.ca.gov
 
@@ -64,11 +64,11 @@ Working group members perform the following functions:
 
 ## Product owner
 
-Code California is led by a product owner sponsored by the California Government Operations Agency (acting). The PO is responsible for:
+Code CA Open Source is led by a product owner sponsored by the California Government Operations Agency (acting). The PO is responsible for:
 
 * Translating community input and lessons learned into continuous improvement action items
 
-* Serving as the primary point of contact on general inquiries related to Code California
+* Serving as the primary point of contact on general inquiries related to Code CA Open Source
 
 * Coordinating administrative aspects of Working Group activities
 

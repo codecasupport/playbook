@@ -1,3 +1,3 @@
-# Code California playbook
+# Code CA Open Source playbook
 
-Welcome to the Code California playbook.
+Welcome to the Code CA Open Source playbook.

@@ -1,6 +1,6 @@
 # About
 
-Code California is an open collaboration between agencies, industry technology partners and civic technologists working to code a more innovative, collaborative and effective government that best serves the people of California.
+Code CA Open Source is an open collaboration between agencies, industry technology partners and civic technologists working to code a more innovative, collaborative and effective government that best serves the people of California.
 
 ## Objective
 
@@ -8,7 +8,7 @@ To cultivate an authentic, supportive, open, collaborative network of digital go
 
 ## Mission
 
-Code California will unite, educate and inspire the California government technology community to build a foundation for digital government services through an open, decentralized approach to code and organizational collaboration.
+Code CA Open Source will unite, educate and inspire the California government technology community to build a foundation for digital government services through an open, decentralized approach to code and organizational collaboration.
 
 ## Values
 

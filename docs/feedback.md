@@ -1,6 +1,6 @@
 # Feedback
 
-The Code California Playbook is an evolving document, and we welcome your feedback!
+The Code CA Open Source Playbook is an evolving document, and we welcome your feedback!
 
 ## How to give feedback
 
