@@ -20,8 +20,6 @@ Applicable exceptions are as follows:
 
 ## Security risk review
 
-As indicated in the '[Licensing](https://github.com/cagov/playbook/blob/master/licensing.md)' section of the playbook:
-
 Consult with the Agency CIO and Information Security Officer to determine if there are any identifiable security risks according to SAM 4984.2. If the Agency determines that the code will not be publicly released as open source, the particular risks identified must be logged in the code inventory.
 
 ## Two-factor authentication
