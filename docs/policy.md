@@ -31,13 +31,13 @@ The purpose of this Technology Letter (TL) is to announce:
 
 * Updated SAM Section 4819.2 to include new definitions of "Code Repository", “Custom Developed Code”, “Source Code” and modified definition of “Open Source Software”. 
 
-* Establishment of CDT’s public code repository, code.ca.gov, to host all new custom-developed open source code and related information and make this information available to all other Agencies/state entities. 
+* Establishment of CDT’s public code repository, CodeCA OpenSource, to host all new custom-developed open source code and related information and make this information available to all other Agencies/state entities. 
 
-* Agencies/state entities shall use best practices to ensure custom-developed code, documentation, and other associated materials are delivered from developers throughout the software development lifecycle and made available for reuse across state government through code.ca.gov.
+* Agencies/state entities shall use best practices to ensure custom-developed code, documentation, and other associated materials are delivered from developers throughout the software development lifecycle and made available for reuse across state government through CodeCA OpenSource.
 
 * Agencies/state entities shall, whenever possible, make code custom-developed by the State of California available to the public as OSS, pursuant to the limited exceptions outlined in SAM Section 4984.2.
 
-*Source: 18-02 **[https://cdt.ca.gov/technology-letters*/](https://cdt.ca.gov/technology-letters/)* *
+*Source: 18-02 [https://cdt.ca.gov/technology-letters/](https://cdt.ca.gov/technology-letters/)
 
 ### California State Administrative Manual (SAM)
 
@@ -47,7 +47,7 @@ The purpose of this Technology Letter (TL) is to announce:
 
 The California Department of Technology (CDT) is committed to improving the way Agencies/state entities buy, build and deliver information technology (IT) and software solutions to better support cost efficiency, effectiveness, and public experience with government programs. Enhanced reuse of custom-developed code across state government can have significant benefits for taxpayers, including decreasing duplicative costs for the same code. To maintain previous investment(s) in IT software, Agencies/state entities shall make code custom-developed by the State of California broadly available for reuse across state government in a consistent manner. This policy is intended to avoid duplicative custom software investments and promote innovation and collaboration across state government while adequately addressing relevant statutory and policy requirements associated with State IT systems, including information security and risk management, privacy, legal issues, and other applicable requirements. The requirements outlined in this section apply to source code that is custom-developed by the State of California, subject to the limited exceptions outlined in SAM Section 4819.2.
 
-*Source: **[https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.pd*f](https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.pdf)* *
+*Source: [https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.pdf](https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.pdf)
 
 #### Open Source and Code Policy Requirements 4984.1 
 
@@ -61,15 +61,15 @@ As part of the Open Source and Code Reuse policy, each Agency/state entity shall
 
 3. Use best practices to ensure custom-developed code, documentation, and other associated materials are delivered from developers throughout the software development lifecycle. 
 
-4. Create and maintain an enterprise code inventory that includes all new State of California custom-developed code and related information and make this information available to all other Agencies/state entities on an ongoing basis. See code.ca.gov for additional information. 
+4. Create and maintain an enterprise code inventory that includes all new State of California custom-developed code and related information and make this information available to all other Agencies/state entities on an ongoing basis. See CodeCA OpenSource for additional information. 
 
-5. Make custom-developed code broadly available for reuse across state government and make their code inventories discoverable through code.ca.gov, the California Department of Technology’s code repository, pursuant to the limited exceptions outlined in SAM Section 4984.2. 
+5. Make custom-developed code broadly available for reuse across state government and make their code inventories discoverable through CodeCA OpenSource, the California Department of Technology’s code repository, pursuant to the limited exceptions outlined in SAM Section 4984.2. 
 
 6. Maintain and frequently update all custom-developed code available in the code repository to ensure code integrity. 
 
 7. Whenever possible, secure the rights necessary to make code custom developed by the State of California available to the public as OSS, pursuant to the limited exceptions outlined in SAM Section 4984.2. Each Agency/state entity’s Chief Information Officer (CIO), with consultation from the Agency/state entity’s Information Security Officer (ISO), is responsible for determining if the Agency/state entity’s custom-developed code will be shared with the public as Open Source Software (OSS) and controlling public access through the Department of Technology’s code repository. Agency/state entities must attribute Copyleft licenses (e.g. GPL v.3) to all custom-developed code made OSS to prohibit the creation of proprietary derivative software.
 
-*Source: **[https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.1.pd*f](https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.1.pdf)
+*Source: [https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.1.pdf](https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.1.pdf)
 
 #### Open Source and Code Policy exceptions 4984.2
 
@@ -87,7 +87,7 @@ Applicable exceptions are as follows:
 
 4. The sharing of the source code would create an identifiable risk to the Agency/state entity’s mission, programs, or operations.
 
-*Source: **[https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.2.pd*f](https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.2.pdf)* *
+*Source: [https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.2.pdf](https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.2.pdf)
 
 ## Resources
 

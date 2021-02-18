@@ -4,7 +4,7 @@ Code CA Open Source is an open collaboration between agencies, industry technolo
 
 ## Objective
 
-To cultivate an authentic, supportive, open, collaborative network of digital government innovators and facilitate California state agency implementation of the Open Source Software (OSS)and Code Reuse policy as outlined in [Technology Letter 18-02](#heading=h.urh5wmrr4rhi).
+To cultivate an authentic, supportive, open, collaborative network of digital government innovators and facilitate California state agency implementation of the Open Source Software (OSS)and Code Reuse policy as outlined in [Technology Letter 18-02](https://cdt.ca.gov/wp-content/uploads/2018/05/TL-18-02-OSCodeReuse_2018-0419.pdf).
 
 ## Mission
 
