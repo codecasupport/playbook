@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the [Code CA Open Source](https://go.code.ca.gov/) Playbook!
+Welcome to the [Code CA Open Source](https://as-cdt-pub-codeca-ww-p-001-uat.azurewebsites.net) Playbook!
 
 The purpose of this playbook is to provide guidance on creating a collaborative, open source community within California state government.
 
@@ -13,5 +13,4 @@ Code CA Open Source is an open collaboration between agencies, industry technolo
 * [Read why open source is important to California government](why.md)
 * [Learn more about Code CA Open Source](about.md)
 * [Read the State of California open source policy](policy.md)
-* [Join the Code CA Open Source community](network.md)
-* [Visit the Code CA Open Source website](https://cagov.github.io/codecagov/)
+* [Visit the Code CA Open Source website](https://as-cdt-pub-codeca-ww-p-001-uat.azurewebsites.net)
