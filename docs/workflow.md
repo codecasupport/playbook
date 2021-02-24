@@ -4,11 +4,11 @@
 
 Updated 02-22-21
 
-Publishing California state government open source projects to code.ca.gov adopts the code-ca.json data management protocol, the same employed by the U.S. Government’s [code.gov](https://code.gov) and NASA’s [code.nasa.gov](https://code.nasa.gov).
+Publishing California state government open source projects to Code CA Open Source adopts the code.json data management protocol, the same employed by the U.S. Government’s [code.gov](https://code.gov) and NASA’s [code.nasa.gov](https://code.nasa.gov).
 
 ## code-ca.json
 
-As code.gov and code.nasa.gov do, code.ca.gov will leverage the JSON protocol to publish publicly-available state open source projects.
+As code.gov and code.nasa.gov do, Code CA Open Source will leverage the JSON protocol to publish publicly-available state open source projects.
 
 About JSON:
 
@@ -19,5 +19,3 @@ The code-ca.json file allows agencies to create a simple file from an establishe
 ## code-ca.json Placement
 The code-ca.json file needs to be placed in the root directory of an agency's website.  
 Example: www.example.ca.gov/code-ca.json
-
-
