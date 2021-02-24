@@ -18,4 +18,4 @@ The code-ca.json file allows agencies to create a simple file from an establishe
 
 ## code-ca.json Placement
 The code-ca.json file needs to be placed in the root directory of an agency's website.  
-Example: www.example.ca.gov/code-ca.json
+```www.example.ca.gov/code-ca.json```
