@@ -16,7 +16,7 @@
         "CodeCAOpenSource"
       ] 
     }
-    ```
+      ```
 
 3. Place the [code-ca.json](https://codecaopensource-playbook.readthedocs.io/en/latest/workflow/#codejson) file in the root of the agency website  
     ```www.example.ca.gov/code-ca.json```
