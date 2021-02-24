@@ -80,7 +80,7 @@ Each agency/entity should have a designated code coordinator that:
 
 * Serves as administrator of the agency’s code sharing platform organization account
 
-* Manages the publishing/maintenance of the agency's code.json file
+* Manages the publishing/maintenance of the agency's code-ca.json file
 
 ## Resources
 
