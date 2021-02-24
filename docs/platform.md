@@ -33,7 +33,7 @@ Key Code CA Open Source planned features:
 
     * How (internal/external) developers can get involved
 
-    * How agencies can set up their code.json file
+    * How agencies can set up their code-ca.json file
 
 * Help wanted: The ‘Help Wanted’ functionality flags key project issues the state is seeking collaboration on.
 
