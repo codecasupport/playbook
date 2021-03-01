@@ -1,6 +1,6 @@
 # Onboarding
 ## Agencies
-### All California government agencies (state/county/city) are encouraged to actively engage with the CodeCA OpenSource community.
+All California government agencies (state/county/city) are encouraged to actively engage with the CodeCA OpenSource community.
  
 ## Getting started  
 
