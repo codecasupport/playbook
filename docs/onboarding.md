@@ -24,4 +24,4 @@
 4. Add [codecasupport](https://github.com/codecasupport) as a collaborator with Write permissions on the repository you wish to add.
 ![Give write access](img/writeAccess.png)
 
-5. You will now see your agency and organizations listed on the [CodeCA OpenSource Explore page](https://as-cdt-pub-codeca-ww-p-001-dev.azurewebsites.net/Explore)
+5. You will now see your agency and organizations listed on the [CodeCA OpenSource Explore page](https://as-cdt-pub-codeca-ww-p-001-uat.azurewebsites.net/Explore)
