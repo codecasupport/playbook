@@ -13,17 +13,19 @@ www.github.com/yourOrg1
 
 3) Create a [code-ca.json](https://codecaopensource-playbook.readthedocs.io/en/latest/workflow/#codejson) file in the following format to provide a list of your agency's organizations.
 ```
-    { 
-      "GitHubOrganizations": [ 
-        "yourOrg1", 
-        "yourOrg2" ,
-        "yourOrg3",
-      ] 
-    }
+{ 
+  "GitHubOrganizations": [ 
+    "yourOrg1", 
+    "yourOrg2" ,
+    "yourOrg3",
+  ] 
+}
 ```
 
 4) Place the [code-ca.json](https://codecaopensource-playbook.readthedocs.io/en/latest/workflow/#codejson) file in the root of the agency website.   
-    ```www.example.ca.gov/code-ca.json```
+```
+www.example.ca.gov/code-ca.json
+```
 
 5) Add CodeCA OpenSource's GitHub account, [codecasupport](https://github.com/codecasupport), as a collaborator with Write permissions for the repository you wish to add.
 ![Give write access](img/collaborator.png)
