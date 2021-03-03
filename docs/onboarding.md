@@ -6,20 +6,20 @@ All California government agencies (state/county/city) are encouraged to activel
 1. An agency's Directory Listing Coordinator will verify the agency website in COLD [https://cold.govops.ca.gov](https://cold.govops.ca.gov)  
 
 2. [Set up GitHub organization](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations) (ex: [California Department of Technology](https://github.com/CDTgithub), [CA Office of Digital Innovation](https://github.com/Office-of-Digital-Innovation/), [Child Welfare Digital Services](https://github.com/ca-cwds)). The GitHub organization name is what needs to be included in the [code-ca.json](https://codecaopensource-playbook.readthedocs.io/en/latest/workflow/#codejson) file.
-```
-www.github.com/yourOrg1
-```
+    ```
+    www.github.com/yourOrg1
+    ```
 
 3. Create a [code-ca.json](https://codecaopensource-playbook.readthedocs.io/en/latest/workflow/#codejson) file in the following format to provide a list of your agency's organizations.
-```
-    { 
-      "GitHubOrganizations": [ 
-        "yourOrg1", 
-        "yourOrg2" ,
-        "yourOrg3",
-      ] 
-    }
-```
+    ```
+        { 
+          "GitHubOrganizations": [ 
+            "yourOrg1", 
+            "yourOrg2" ,
+            "yourOrg3",
+          ] 
+        }
+    ```
 
 4. Place the [code-ca.json](https://codecaopensource-playbook.readthedocs.io/en/latest/workflow/#codejson) file in the root of the agency website.   
     ```www.example.ca.gov/code-ca.json```
