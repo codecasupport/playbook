@@ -35,11 +35,11 @@ _Note: The following steps are optional, but will benefit your agency by providi
 ![Unverifed example](img/unverified.png)  
 ___
 6) Add CodeCA OpenSource's GitHub account, [codecasupport](https://github.com/codecasupport), as a collaborator with Write permissions for the repository you wish to add. 
-![Give write access](img/collaborator.png)
-7) [Enable code scanning alerts ](https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning) from the Security tab of your GitHub repository by clicking the "Set up code scanning button" in the lower right of the screen
-![Set up code scanning](img/code-scanning.png)
-8) Select a code scanning tool from the available providers. CodeQL Analysis is recommended, as it is free and created by GitHub.
-![Choose scanning tool](img/code-ql.png)
-9) After collaborating with [codecasupport](https://github.com/codecasupport) and enabling code scanning, your repository's listing will look similar to this example.
-![All good example](img/all-good.png)
+![Give write access](img/collaborator.png)  
+7) [Enable code scanning alerts ](https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning) from the Security tab of your GitHub repository by clicking the "Set up code scanning button" in the lower right of the screen.  
+![Set up code scanning](img/code-scanning.png)  
+8) Select a code scanning tool from the available providers. CodeQL Analysis is recommended, as it is free and created by GitHub.  
+![Choose scanning tool](img/code-ql.png)  
+9) After collaborating with [codecasupport](https://github.com/codecasupport) and enabling code scanning, your repository will be listed as All Good.  
+![All good example](img/all-good.png)  
 
