@@ -31,7 +31,7 @@ www.example.ca.gov/code-ca.json
 
 5) You will see your agency and organizations listed on the [CodeCA OpenSource Explore page](https://as-cdt-pub-codeca-ww-p-001-uat.azurewebsites.net/Explore) in 1-2 business days.
 
-_Note: The following steps are optional, but will benefit your agency by providing more details about its open source projects, and display the results of any code scanning performed on the repository. This will increase the likelihood that your agency's open source projects will be reused or gain additional collaborators, and is more in line with the spirit of open source development. Choosing not to add [codecasupport](https://github.com/codecasupport) as a collaborator will list your repository as Unverified_
+_Note: The following steps are optional, but will benefit your agency by providing more details about its open-source projects, and display the results of any code scanning performed on the repository. This will increase the likelihood that your agency's open-source projects will be reused or gain additional collaborators, and is more in line with the spirit of open-source development. Choosing not to add [codecasupport](https://github.com/codecasupport) as a collaborator will list your repository as Unverified_
 ![Unverifed example](img/unverified.png)  
 ___
 6) Add CodeCA OpenSource's GitHub account, [codecasupport](https://github.com/codecasupport), as a collaborator with Write permissions for the repository you wish to add. 

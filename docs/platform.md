@@ -4,7 +4,7 @@
 
 Updated 02-17-21
 
-[Code CA Open Source](https://as-cdt-pub-codeca-ww-p-001-uat.azurewebsites.net) is the central platform for finding California government open source software projects. CDT is leveraging and learning from existing efforts from the federal team at code.gov to create the next iteration of Code CA Open Source.
+[Code CA Open Source](https://as-cdt-pub-codeca-ww-p-001-uat.azurewebsites.net) is the central platform for finding California government open-source software projects. CDT is leveraging and learning from existing efforts from the federal team at code.gov to create the next iteration of Code CA Open Source.
 
 The platform follows similar government efforts:
 
@@ -14,13 +14,13 @@ The platform follows similar government efforts:
 
 ## Acknowledgements
 
-We would like to recognize and thank the team that develops and supports the U.S. Government's open source platform [code.gov](http://code.gov). By leveraging the [code.gov](http://code.gov) code base, we join a broader community and hold true to the spirit of open source collaboration.
+We would like to recognize and thank the team that develops and supports the U.S. Government's open-source platform [code.gov](http://code.gov). By leveraging the [code.gov](http://code.gov) code base, we join a broader community and hold true to the spirit of open-source collaboration.
 
 ## How We Inventory Code on CodeCA Open Source
 
 CodeCA Open source works by first harvesting a list of all inventoried code from a single source that is hosted on [Github]().
 
-From that file, we run through each agencies entry and fetch their associated json file. We then index each json file and make the open source code available and searchable on our platform.
+From that file, we run through each agencies entry and fetch their associated json file. We then index each json file and make the open-source code available and searchable on our platform.
 
 
 ## Planned Features
@@ -41,4 +41,4 @@ Key Code CA Open Source planned features:
 
 * Roadmap: The project roadmap with general planned features.
 
-* Dashboard: The participation dashboard showcases open source software adoption.
+* Dashboard: The participation dashboard showcases open-source software adoption.

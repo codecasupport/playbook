@@ -31,7 +31,7 @@ The purpose of this Technology Letter (TL) is to announce:
 
 * Updated SAM Section 4819.2 to include new definitions of "Code Repository", “Custom Developed Code”, “Source Code” and modified definition of “Open Source Software”. 
 
-* Establishment of CDT’s public code repository, CodeCA OpenSource, to host all new custom-developed open source code and related information and make this information available to all other Agencies/state entities. 
+* Establishment of CDT’s public code repository, CodeCA OpenSource, to host all new custom-developed open-source code and related information and make this information available to all other Agencies/state entities. 
 
 * Agencies/state entities shall use best practices to ensure custom-developed code, documentation, and other associated materials are delivered from developers throughout the software development lifecycle and made available for reuse across state government through CodeCA OpenSource.
 
@@ -57,7 +57,7 @@ As part of the Open Source and Code Reuse policy, each Agency/state entity shall
 
 1. Evaluate, as part of the Project Approval Lifecycle alternatives analysis, existing state software solutions for all reportable and non-reportable IT projects. Alternatives analysis shall give preference to the use of existing state software solutions. 
 
-2. If alternatives analysis concludes that existing state software solutions cannot efficiently and effectively meet the needs of the Agency/state entity, the Agency/state entity must explore whether its requirements can be satisfied with an appropriate commercially-available solution or open source solution. 
+2. If alternatives analysis concludes that existing state software solutions cannot efficiently and effectively meet the needs of the Agency/state entity, the Agency/state entity must explore whether its requirements can be satisfied with an appropriate commercially-available solution or open-source solution. 
 
 3. Use best practices to ensure custom-developed code, documentation, and other associated materials are delivered from developers throughout the software development lifecycle. 
 

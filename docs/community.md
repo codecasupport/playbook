@@ -50,7 +50,7 @@ The Code CA Open Source Working Group is comprised of Code Coordinators from eac
 
 Working group members perform the following functions:
 
-* Champion open source adoption to California state/local governments
+* Champion open-source adoption to California state/local governments
 
 * Serve as Code CA Open Source community leaders/moderators
 
@@ -74,7 +74,7 @@ Code CA Open Source is led by a product owner sponsored by the California Govern
 
 Each agency/entity should have a designated code coordinator that:
 
-* Serves as the agency's primary open source point of contact
+* Serves as the agency's primary open-source point of contact
 
 * Serves as administrator of the agency’s code sharing platform organization account
 
