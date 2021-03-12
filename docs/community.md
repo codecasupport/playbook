@@ -1,16 +1,16 @@
 # Community
 
-To facilitate a culture of exponential public sector digital innovation, Code CA Open Source welcomes contributions from all members of the government technology ecosystem.
+To facilitate a culture of exponential public sector digital innovation, CodeCA OpenSource welcomes contributions from all members of the government technology ecosystem.
 
 ## Network
 
-Code CA Open Source hosts an online and in person network for its community:
+CodeCA OpenSource hosts an online and in person network for its community:
 
 * The community can also participate and meet others through the Department of Technology’s (CDT) Digital Web Services Network Quarterly meetings.
 
 ## Users
 
-The Code CA Open Source community works to serve these core user groups:
+The CodeCA OpenSource community works to serve these core user groups:
 
 * The People of California, so that they receive the most efficient, effective digital government services possible.
 
@@ -18,7 +18,7 @@ The Code CA Open Source community works to serve these core user groups:
 
 ## Members
 
-Code CA Open Source community members include:
+CodeCA OpenSource community members include:
 
 * California state government agencies/employees
 
@@ -32,7 +32,7 @@ Code CA Open Source community members include:
 
 ## Collaborators
 
-Code CA Open Source is led collaboratively and actively supported by these California state agencies and initiatives:
+CodeCA OpenSource is led collaboratively and actively supported by these California state agencies and initiatives:
 
 * [California Government Operations Agency](https://www.govops.ca.gov/)
 
@@ -46,15 +46,15 @@ Code CA Open Source is led collaboratively and actively supported by these Calif
 
 ## Working group
 
-The Code CA Open Source Working Group is comprised of Code Coordinators from each California state agency. The Code CA Open Source Working Group is led by the California Department of Technology Code Coordinator.
+The CodeCA OpenSource Working Group is comprised of Code Coordinators from each California state agency. The CodeCA OpenSource Working Group is led by the California Department of Technology Code Coordinator.
 
 Working group members perform the following functions:
 
 * Champion open-source adoption to California state/local governments
 
-* Serve as Code CA Open Source community leaders/moderators
+* Serve as CodeCA OpenSource community leaders/moderators
 
-* Organize and facilitate Code CA Open Source open space sessions
+* Organize and facilitate CodeCA OpenSource open space sessions
 
 * Work to increase project contribution and participation in code.ca.gov
 
@@ -62,11 +62,11 @@ Working group members perform the following functions:
 
 ## Product owner
 
-Code CA Open Source is led by a product owner sponsored by the California Government Operations Agency (acting). The PO is responsible for:
+CodeCA OpenSource is led by a product owner sponsored by the California Government Operations Agency (acting). The PO is responsible for:
 
 * Translating community input and lessons learned into continuous improvement action items
 
-* Serving as the primary point of contact on general inquiries related to Code CA Open Source
+* Serving as the primary point of contact on general inquiries related to CodeCA OpenSource
 
 * Coordinating administrative aspects of Working Group activities
 

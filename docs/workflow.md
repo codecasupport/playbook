@@ -4,11 +4,11 @@
 
 Updated 02-22-21
 
-Publishing California state government open-source projects to Code CA Open Source adopts the code.json data management protocol, the same employed by the U.S. Government’s [code.gov](https://code.gov) and NASA’s [code.nasa.gov](https://code.nasa.gov).
+Publishing California state government open-source projects to CodeCA OpenSource adopts the code.json data management protocol, the same employed by the U.S. Government’s [code.gov](https://code.gov) and NASA’s [code.nasa.gov](https://code.nasa.gov).
 
 ## code-ca.json
 
-As code.gov and code.nasa.gov do, Code CA Open Source will leverage the JSON protocol to publish publicly-available state open-source projects.
+As code.gov and code.nasa.gov do, CodeCA OpenSource will leverage the JSON protocol to publish publicly-available state open-source projects.
 
 About JSON:
 

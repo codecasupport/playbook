@@ -1,3 +1,3 @@
-# Code CA Open Source playbook
+# CodeCA OpenSource playbook
 
-Welcome to the Code CA Open Source playbook.
+Welcome to the CodeCA OpenSource playbook.

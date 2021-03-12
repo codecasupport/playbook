@@ -4,7 +4,7 @@
 
 Updated 02-17-21
 
-[Code CA Open Source](https://as-cdt-pub-codeca-ww-p-001-uat.azurewebsites.net) is the central platform for finding California government open-source software projects. CDT is leveraging and learning from existing efforts from the federal team at code.gov to create the next iteration of Code CA Open Source.
+[CodeCA OpenSource](https://as-cdt-pub-codeca-ww-p-001-uat.azurewebsites.net) is the central platform for finding California government open-source software projects. CDT is leveraging and learning from existing efforts from the federal team at code.gov to create the next iteration of CodeCA OpenSource.
 
 The platform follows similar government efforts:
 
@@ -25,7 +25,7 @@ From that file, we run through each agencies entry and fetch their associated js
 
 ## Planned Features
 
-Key Code CA Open Source planned features:
+Key CodeCA OpenSource planned features:
 
 * Projects: Filterable view (by technology, agency, license) of California state software projects.
 

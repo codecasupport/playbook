@@ -1,6 +1,6 @@
 # Feedback
 
-The Code CA Open Source Playbook is an evolving document, and we welcome your feedback!
+The CodeCA OpenSource Playbook is an evolving document, and we welcome your feedback!
 
 ## How to give feedback
 
